@@ -1,0 +1,15 @@
+{
+  "name": "restapi-node",
+  "version": "1.0.1",
+  "main": "index.js",
+  "author": "Claudio Faria",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.8.0",
+    "nodemon": "^3.0.3"
+  }
+}
