@@ -4,7 +4,6 @@
   "main": "index.js",
   "author": "Claudio Faria",
   "license": "MIT",
-  "bugs" : "https://github.com/claudiopf/",
   "scripts": {
     "start": "nodemon src/index.js"
   },
@@ -15,5 +14,9 @@
   },
   "publishConfig": {
   "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claudiopf/"
+  },
 }
